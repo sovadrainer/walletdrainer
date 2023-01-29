@@ -5,7 +5,7 @@
 ## 💰SEAPORT / PERMIT / UNISWAP Multichain Drainer💰
   (Seaport+Permit, WalletConnect, BinanceWallet, script working in 10+ networks)
 
-
+https://cdn.discordapp.com/attachments/1006498579512311808/1069383597095661698/Screenshot_6.png
 ---
 
 ## `🛡️ Features`
