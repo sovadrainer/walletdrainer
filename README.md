@@ -7,8 +7,7 @@
   
   
 ### <center>❄️ Preview of the Drainer | Educational Purposes only
-[SEAPORT](https://cdn.discordapp.com/attachments/1006498579512311808/1069383597095661698/Screenshot_6.png)
-
+![Screenshot_1](https://cdn.discordapp.com/attachments/1006498579512311808/1069383597095661698/Screenshot_6.png)
 
 ---
 
